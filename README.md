@@ -11,7 +11,7 @@ This project visualizes and analyzes ELO ratings for European football clubs and
 - **ELO Ratings for Clubs/Countries**: Interactive bubble chart by country
 - **Club Rating (Last 5 Years)**: Compare top clubs’ ELO ratings
 - **Country Rating (Last 5 Years)**: Trends by country
-- **ELO Rating By Country (2024 Only)**: Treemap of country averages
+- **ELO Rating By Country (Filter By Year)**: Treemap of country averages
 
 ## How to View
 - Open `dataViz_sheets.twb` in Tableau Public/Desktop.
