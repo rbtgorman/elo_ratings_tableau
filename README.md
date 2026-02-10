@@ -14,8 +14,7 @@ This project visualizes and analyzes ELO ratings for European football clubs and
 - **ELO Rating By Country (Filter By Year)**: Treemap of country averages
 
 ## How to View
-- Open `dataViz_sheets.twb` in Tableau Public/Desktop.
-- Or, view the interactive version on [Tableau Public](https://public.tableau.com/app/profile/robert.gorman4725/viz/dataViz_sheets/ELORatingByCountryFilterByYear?publish=yes).
+- View the interactive version on [Tableau Public](https://public.tableau.com/app/profile/robert.gorman4725/viz/dataViz_sheets/ELORatingByCountryFilterByYear?publish=yes).
 
 ## Sample Visuals
 
